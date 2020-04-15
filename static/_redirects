@@ -1,0 +1,4 @@
+# Redirect default Netlify subdomain to primary domain
+http://naughty-joliot-9c2e94.netlify.com/* https://aboreal.rbind.io/:splat 301!
+  
+http://aboreal.rbind.io/*  https://aboreal.rbind.io/:splat 301!
